@@ -1273,7 +1273,14 @@ hosted-git-info@^2.1.4:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.2.0.tgz#7a0d097863d886c0fabbdcd37bf1758d8becf8a5"
 
-html-wiring@1.2.0, html-wiring@^1.0.0:
+html-wiring@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/html-wiring/-/html-wiring-2.0.0.tgz#1dc39bf938962f1ced081c1dfe45cf984b761548"
+  dependencies:
+    cheerio "^0.19.0"
+    detect-newline "^1.0.3"
+
+html-wiring@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/html-wiring/-/html-wiring-1.2.0.tgz#c5f90a776e0a27241dc6df9022c37186d0270f9e"
   dependencies:
