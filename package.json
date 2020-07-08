@@ -45,7 +45,7 @@
     "jhipster-core": "1.2.8",
     "js-yaml": "3.8.2",
     "lodash": "4.17.4",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.4",
     "pluralize": "4.0.0",
     "randexp": "0.4.5",
     "semver": "5.3.0",
